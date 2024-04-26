@@ -1,0 +1,38 @@
+.calculator{
+    text-align: center;
+}
+
+.form{
+    background-color: bisque;
+    padding: 30px ;
+    margin-left:36%;
+    margin-right:46%;
+    margin-top: 0px;
+}
+.text{
+    background-color: rgb(202, 68, 68);
+    border-color: black;
+    padding: 10px 20px 10px 20px;
+}
+.text1{
+padding: 1%;
+text-align: center;
+
+}
+.button{
+    height: 55px;
+    width: 55px;
+    border-radius: 1px;
+}
+.button1{
+    height:55px;
+    width: 55px;
+    border-radius: 1px;
+    background-color: rgb(179, 100, 100) ;
+}
+.button2{
+    height: 55px;
+    width: 55px;
+    border-radius:1px ;
+    background-color:rgb(179, 100, 100) ;
+}
